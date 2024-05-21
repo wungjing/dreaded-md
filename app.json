@@ -1,5 +1,5 @@
 {
-  "name": "DREADED MD",
+  "name": "VIRUSI 🦠 HIV MD",
   "description": "A simple whatsapp bot built with nodejs and baileys with MD support. Created by Gifted Tech",
   "keywords": [
     "bot",
@@ -14,15 +14,15 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/mouricedevs/dreaded-md#readme",
-  "repository": "https://github.com/mouricedevs/dreaded-md.git",
+  "website": "https://github.com/wmouricedevs/dreaded-md#readme",
+  "repository": "https://github.com/wungjing/dreaded-md.git",
   "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
   "success_url": "https://dreaded-online.vercel.app",
   "env": {
        "PREFIX":
     {
       "description":"Choose your Prefix for Dreaded Bot. To prevent errors and confusion you must set a prefix",
-      "value": ".",
+      "value": """,
       "required":true
     },
 
@@ -36,13 +36,13 @@
  "MENULINK":
     {
       "description":"Put an image link that will be used in picture menu.",
-      "value": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
+      "value": "https://telegra.ph/file/4a4c2a3b599e4a7ff3322.jpg",
       "required":true
     },
 
     "DEV": {
       "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254728782591, 254762016957 ",
-      "value": "254728782591,254762016957,254110853827,254728746852",
+      "value": "254748721079",
       "required": true
     },
 
@@ -160,27 +160,27 @@
       "required": true
     },
 "SESSION": {
-      "description": "Paste the session id that you received in whatsapp after linking the bot. It's used for authentication.",
+      "description": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTUpsV3k1ZFV0dVNkV1g5M05LNHZXempmSXJTSUpLMTJrSWNhUnFNQVEyTT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWWwyUHpWS2lwbitzT3RmWVh4T28xRXRneFVYcXBUVll4ektuQXpMTnRtMD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ5QUYzQTdnMzRPTEEvem1Na1lRRUttUURUMHVYQm5EOHZLTlZ1ZzF4QlhVPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJUM0JTS0FRUXViZ0ZYVnI4SzFCMCtIbGk5dXl2ei8vajAwTHpYV25EbmhNPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InNLdklkV3h6NGVrZC9hZnd5R3ZoazdEbERaZEFudCtORnBKSXFQWVdKR2s9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InNER2w5dldoMUl1cWpieU9lNitNNTNXTjlQcnBlYTFsN0pRUS85ZkZERGs9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZUI1bFJMcU94NzNDcnV3OHcvdDNJNjNiTE1Yb3VtNGZEUVdQMElsOU0zZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRm5JM2dLRlJ4YnAreEdJM2ZBcG16VS9QazRnV1B5QXgvbUdIZTVaeExXZz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InhjWXk4L1M2dmVTYkRub0xDemJLbXJ2bHdLcER1Q244a3hiZTFUWk50OUF1RURoUHlTMWJseEJVYWdyaWZ2MTlvVXlnMS9pWWd5d3VsVjN4ZnpmUENRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTQzLCJhZHZTZWNyZXRLZXkiOiIvQ1dMd0M3SCtqSU1UMlhTWUNZRlpKL2JURWlDMDgxenZZOWZqbndPYk9JPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiItYWNEcDhDM1RDMmNfdm5uZHBVVDV3IiwicGhvbmVJZCI6ImE2MTM2YjU5LTU0N2QtNGFjZS04MjU3LTZiNjNkM2Y1MmE4MSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJrdEhuMVFaeDhHeWswQXlTZC9SY3UvakluMVE9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaVlreS9CbitKb0FXWUpWSFRpRW85dU5GbTRvPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjVTQTZCOTVaIiwibWUiOnsiaWQiOiIyNTQ3NDg3MjEwNzk6OEBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTG5Wa0J3UXFiQ3dzZ1lZQ2lBQUtBQT0iLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiZ2tFVzZITTJtYXowdUF6M3gvWnJVSGtGdmQ0NG1rSVpWTFJsd3MyWExBOD0iLCJhY2NvdW50U2lnbmF0dXJlIjoiRTJaNTFqaU96UThDWG1WT1NLZSs0LzB5d0tlNG01Q05FRVhwMk9uQkZvSEdlWEk2RW84T290YTVnaGxvbkt5MW0zQkR6cFhKUjgvWWk5WVN3Z21kQnc9PSIsImRldmljZVNpZ25hdHVyZSI6IkpZSjl4RnNBMHBYNFM2dkJNUXVsbGJKSm1sb1NBUkFBYWpQa0pNVEI0NlQyMWExVDUrQ2YrZWZVeUswRUl6MHptYkR4V081bFhWTDUrSDNjZVdzZUNnPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU0NzQ4NzIxMDc5OjhAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCWUpCRnVoek5wbXM5TGdNOThmMmExQjVCYjNlT0pwQ0dWUzBaY0xObHl3UCJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcxNjI2Mjk2Nn0=.",
       "value": "",
       "required": true
     },
 
 "COUNTRY_CODE": {
       "description": "Enter your country code without +. Example: 254 for Kenya. This will allow bot to detect and remove foreigners if commanded",
-      "value": "",
+      "value": "254",
       "required": true
     },
 
 
 "BOTNAME": {
       "description": "Enter name for your bot.",
-      "value": "𝗗𝗥𝗘𝗔𝗗𝗘𝗗 𝗠𝗗",
+      "value": "VIRUSI 🦠 HIV",
       "required": false
     },
 
 
 "APP_NAME": {
-      "description": "Enter the app name you entered above.",
+      "description": "adreno07.",
       "value": "",
       "required": true
     },
@@ -188,7 +188,7 @@
 
 
 "HEROKU_API": {
-      "description": "Enter your heroku API Key",
+      "description": "HRKU-5c5482a8-a105-49bf-9af6-096fa5152813",
       "value": "",
       "required": true
     }  
